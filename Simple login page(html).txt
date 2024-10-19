@@ -1,0 +1,112 @@
+<html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<p style="background-color:aqua;">
+    <h3><b><i><u>
+    Name:Sahitya Ghosh<br><br>Age:20<br><br>Branch:CSE<br><br></u></i></b></h3></p>
+<center>
+<fieldset style="width: 69px; background-color:black;">
+    
+<body style="background-color:beige(204, 228, 228);">
+    
+    <img src="/images/Sahitya Ghosh 1.jpg" style="height: 200px; border-top-style: solid; box-sizing: content-box; border-radius: unset;">
+    
+</center>
+</fieldset>
+
+    <hr>
+    <center style="font-style:oblique;">
+    <fieldset style="max-width: fit-content; background-color:white;">
+
+<caption><h1 style="color:rgb(255, 0, 0)">My first html login form for registration and anything buy purpose..</caption></h1>
+
+<form action="/Fill">
+    <hr>
+   <label for="Name" id="email" aria-required style="color:rgb(255, 0, 0);"><b><h3>Name::</label></form>
+ <input type="text"  name="name" required style="background-color: rgb(255, 255, 255);"><br><hr>
+ <label for="Password" id="password" aria-required style="color: rgb(255, 0, 0);">Password::</label><input type="password" name="password" required style="background-color:rgb(255, 255, 255);"><br>
+<hr>
+ <label for="Date" id="Current date" Name="Date" style="color:rgb(255, 0, 0);">Date::</label><input type="date" style="background-color:rgb(255, 255, 255);">
+<hr><pre><b><h2>        <label for="File" id="File chose" style="color: rgb(255, 0, 0);">Chose file::</label><input type="file">
+</pre>
+<label for="Color" style="color: rgb(255, 0, 0);">Color::</label>
+<input type="color">
+<hr>
+<label for="Color" style="Range: rgb(255, 0, 0);">Price Range::</label>
+<input type="Range">
+<hr>
+<label for="Button" value="Poke" >Button::</label>
+<input type="button" value="Press">
+<hr>
+
+
+
+    <label for="male">Male</label>
+    <input type="radio" id="male" name="gender" value="male">
+
+    <label for="female">Female</label>
+    <input type="radio" id="female" name="gender" value="female">
+
+    <label for="other">Other</label>
+   <input type="radio" id="other" Name="gender" value="other"
+  <br>
+  <hr>
+<label for="Country">Select your country::</label>
+<select name="desh" id="desh" style="background-color: aqua;">
+<option value="India">India</option>
+<option value="UK">UK</option>
+<option value="Auatralia">Australia</option>
+<option value="Brazil">Brazil</option>
+<option value="Russia">Russia</option>
+<option value="Japan">Japan</option>
+<option value="Spain">Spain</option>
+<option value="China">China</option>
+<option value="Others">Others</option>
+</select>
+<hr>
+<p style="background-color: bisque;">
+  <input type="submit" value="Submit"  style="color:blue">
+<input type="Reset" id="Reset" required value="Reset">
+<br>
+<hr>
+</p>
+<a href="http://127.0.0.1:5500/secondpage.html" target="_blank">Next-page</a>
+
+
+</form>
+</body>
+</html>
+
+
+
+<!-- <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<label for="Language" id="Language">Language::</label >
+    <br>
+    <input type="checkbox" id="Language" name="C" >
+    <label for="Checbox" id="Checbox">C </label>
+    <br>
+    <input type="checkbox" id="Language" name="Java">
+    <label for="Checbox" id="Checbox">Java</label>
+    <br>
+    <input type="checkbox" id="Language" name="Python">
+    <label for="Checbox" id="Checbox">Python</label>
+    <hr>
+<body bgcolor="lightyellow">
+    <u><b><i><label for="Feedback" id="Text">Feedback::</label></i></b></u>
+    <br><hr>
+<textarea name="Text" id="" cols="30" rows="10" style="background-color:white; color:blue">
+    Write your feedback:
+</textarea>
+</i></b></u>
+</body>
+</html> -->
