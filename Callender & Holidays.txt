@@ -1,0 +1,2917 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+    </style>
+</head>
+<body style="background-color:black">
+    <header>
+        <fieldset style="background-color:white;">
+            <table style="width:100%">
+                <center> <image src="image/calender image.jpeg" height="88px" width="88px"></image><tr>
+                   <header><td style="width:88%;text-align:center"><h1 style="color:black ;">CALENDER</h1></td></header>
+                   </tr>
+                 </table>
+            <a href="https://github.com/SAHITYA350" target="_blank"><h3 style="color: black">
+               <i> Click here :: SAHITYA GHOSH</i>
+            </h3>
+            </a>
+        <h1 style="color:black">
+            <b>
+                <i>
+                    <u>
+                        <center>2025</center>
+                                            </u>
+                </i>
+                </b>
+        </h1>
+        </fieldset>
+    </header>
+    <hr color="white">
+    <!-- 1 -->
+    <table style="width:100%">
+        <tr>
+          <td style="width:23%;text-align:left">
+                <table border="5" style="border-color:white;">
+            <tr>
+                <th>
+            <p>
+                <h1>
+                    <b>
+                    <center style="color: yellow;">JANUARY</center>
+                    </b>
+                </h1>
+            </p>
+            <table border="4" >
+                <tr style="color: yellow;">
+                    <th>
+                     Sun
+                    </th>
+        <th>
+            Mon
+        </th>
+        <th>
+            Tus
+        </th>
+        <th>
+            Wed
+        </th>
+        <th>
+            Thu
+        </th>
+        <th>
+            Fri
+        </th>
+        <th>
+            Sat
+        </th>
+        </tr>
+        <tr style="color: yellow">
+            <td>
+               &nbsp; 
+            </td>
+            <td>
+                &nbsp;
+            </td>
+            <td>
+                &nbsp;
+            </td>
+            <td>
+                <center>1</center>
+            </td>
+            <td>
+                <center>2</center>
+            </td>
+            <td>
+                <center>3</center>
+            </td>
+            <td>
+                <center>4</center>
+            </td>
+        </tr>
+        <tr style="color: yellow;">
+            <td>
+                <center>5</center>
+            </td>
+            <td>
+                <center>6</center>
+            </td>
+            <td>
+                <center>7</center>
+            </td>
+            <td>
+                <center>8</center>
+            </td>
+            <td>
+                <center>9</center>
+            </td>
+            <td>
+                <center>10</center>
+            </td>
+            <td>
+                <center>11</center>
+            </td>
+            </tr>
+            <tr style="color: yellow;">
+                <td>
+                    <center>12</center>
+                </td>
+            
+                <td>
+                    <center>13</center>
+                </td>
+                <td>
+                    <center>14</center>
+                </td>
+                <td>
+                    <center>15</center>
+                </td>
+                <td>
+                    <center>16</center>
+                </td>
+                <td>
+                    <center>17</center>
+                </td>
+                <td>
+                    <center>18</center>
+                </td>
+            </tr>
+            <tr style="color: yellow">
+                <td>
+                    <center>19</center>
+                </td>
+                <td>
+                    <center>20</center>
+                </td>
+                <td>
+                    <center>21</center>
+                </td>
+                <td>
+                    <center>22</center>
+                </td>
+                <td>
+                    <center>23</center>
+                </td>
+                <td>
+                    <center>24</center>
+                </td>
+                <td>
+                    <center>25</center>
+                </td>
+            </tr>
+            <tr style="color: yellow">
+                <td>
+                    <center>26</center>
+                </td>
+                <td>
+                    <center>27</center>
+                </td>
+                <td>
+                    <center>28</center>
+                </td>
+                <td>
+                    <center>29</center>
+                </td>
+                <td>
+                    <center>30</center>
+                </td>
+                <td>
+                    <center>31</center>
+                </td>
+                <td>
+                    &nbsp;
+               </td>
+                
+            </tr>
+            </table>
+        </table>
+       
+          </td>
+          <!-- 2 -->
+          <td style="width:20%;text-align:center">
+                <table border="5" style="border-color:white;">
+            <tr>
+                <th>
+            <p>
+                <h1>
+                    <b>
+                    <center style="color: yellow;">FEBRUARY</center>
+                    </b>
+                </h1>
+            </p>
+            <table border="4" >
+                <tr style="color: yellow;">
+                    <th>
+                     Sun
+                    </th>
+        <th>
+            Mon
+        </th>
+        <th>
+            Tus
+        </th>
+        <th>
+            Wed
+        </th>
+        <th>
+            Thu
+        </th>
+        <th>
+            Fri
+        </th>
+        <th>
+            Sat
+        </th>
+        </tr>
+        <tr style="color: yellow">
+            <td>
+               &nbsp; 
+            </td>
+            <td>
+                &nbsp;
+            </td>
+            <td>
+                &nbsp;
+            </td>
+            <td>
+                &nbsp;
+            </td>
+            <td>
+                &nbsp;
+            </td>
+            <td>
+                &nbsp;
+            </td>
+            <td>
+                <center>1</center>
+            </td>
+        </tr>
+        <tr style="color: yellow;">
+            <td>
+                <center>2</center>
+            </td>
+            <td>
+                <center>3</center>
+            </td>
+            <td>
+                <center>4</center>
+            </td>
+            <td>
+                <center>5</center>
+            </td>
+            <td>
+                <center>6</center>
+            </td>
+            <td>
+                <center>7</center>
+            </td>
+            <td>
+                <center>8</center>
+            </td>
+            </tr>
+            <tr style="color: yellow;">
+                <td>
+                    <center>9</center>
+                </td>
+            
+                <td>
+                    <center>10</center>
+                </td>
+                <td>
+                    <center>11</center>
+                </td>
+                <td>
+                    <center>12</center>
+                </td>
+                <td>
+                    <center>13</center>
+                </td>
+                <td>
+                    <center>14</center>
+                </td>
+                <td>
+                    <center>15</center>
+                </td>
+            </tr>
+            <tr style="color: yellow">
+                <td>
+                    <center>16</center>
+                </td>
+                <td>
+                    <center>17</center>
+                </td>
+                <td>
+                    <center>18</center>
+                </td>
+                <td>
+                    <center>19</center>
+                </td>
+                <td>
+                    <center>20</center>
+                </td>
+                <td>
+                    <center>21</center>
+                </td>
+                <td>
+                    <center>22</center>
+                </td>
+            </tr>
+            <tr style="color: yellow">
+                <td>
+                    <center>23</center>
+                </td>
+                <td>
+                    <center>24</center>
+                </td>
+                <td>
+                    <center>25</center>
+                </td>
+                <td>
+                    <center>26</center>
+                </td>
+                <td>
+                    <center>27</center>
+                </td>
+                <td>
+                    <center>28</center>
+                </td>
+                <td>
+                    &nbsp;
+               </td>
+                
+            </tr>
+            </table>
+        </table>
+          </td>
+
+<!-- 3 -->
+          <td style="width:3%;text-align:right">
+
+                <table border="5" style="border-color:white;">
+            <tr>
+                <th>
+            <p>
+                <h1>
+                    <b>
+                    <center style="color: yellow;">MARCH</center>
+                    </b>
+                </h1>
+            </p>
+            <table border="5">
+                <tr style="color: yellow;">
+                    <th>
+                     Sun
+                    </th>
+        <th>
+            Mon
+        </th>
+        <th>
+            Tus
+        </th>
+        <th>
+            Wed
+        </th>
+        <th>
+            Thu
+        </th>
+        <th>
+            Fri
+        </th>
+        <th>
+            Sat
+        </th>
+        </tr>
+        <tr style="color: yellow">
+            <td>
+               &nbsp; 
+            </td>
+            <td>
+                &nbsp;
+            </td>
+            <td>
+                &nbsp;
+            </td>
+       <td>
+                &nbsp;
+                </td>
+            <td>
+                &nbsp;
+            </td>
+            <td>
+                &nbsp;
+            </td>
+            <td>
+                <center>1</center>
+            </td>
+        </tr>
+        <tr style="color: yellow;">
+            <td>
+                <center>2</center>
+            </td>
+            <td>
+                <center>3</center>
+            </td>
+            <td>
+                <center>4</center>
+            </td>
+            <td>
+                <center>5</center>
+            </td>
+            <td>
+                <center>6</center>
+            </td>
+            <td>
+                <center>7</center>
+            </td>
+            <td>
+                <center>8</center>
+            </td>
+            </tr>
+            <tr style="color: yellow;">
+                <td>
+                    <center>9</center>
+                </td>
+            
+                <td>
+                    <center>10</center>
+                </td>
+                <td>
+                    <center>11</center>
+                </td>
+                <td>
+                    <center>12</center>
+                </td>
+                <td>
+                    <center>13</center>
+                </td>
+                <td>
+                    <center>14</center>
+                </td>
+                <td>
+                    <center>15</center>
+                </td>
+            </tr>
+            <tr style="color: yellow">
+                <td>
+                    <center>16</center>
+                </td>
+                <td>
+                    <center>17</center>
+                </td>
+                <td>
+                    <center>18</center>
+                </td>
+                <td>
+                    <center>19</center>
+                </td>
+                <td>
+                    <center>20</center>
+                </td>
+                <td>
+                    <center>21</center>
+                </td>
+                <td>
+                    <center>22</center>
+                </td>
+            </tr>
+            <tr style="color: yellow">
+                <td>
+                    <center>23</center>
+                </td>
+                <td>
+                    <center>24</center>
+                </td>
+                <td>
+                    <center>25</center>
+                </td>
+                <td>
+                    <center>26</center>
+                </td>
+                <td>
+                    <center>37</center>
+                </td>
+                <td>
+                    <center>28</center>
+                </td>
+                <td>
+                    <center>29</center>
+               </td>
+               <tr style="color: yellow;">
+                <td>
+                    <center>30</center>
+                </td>
+                <td>
+                    <center>31</center>
+                </td>
+<td>
+    &nbsp;
+</td>
+<td>
+    &nbsp;
+</td>
+<td>
+    &nbsp;
+</td>
+<td>
+    &nbsp;
+</td>
+<td>
+    &nbsp;
+</td>
+               </tr>
+                
+            </tr>
+            </table>
+        </table>
+          </td>
+        </tr>
+      </table>
+
+      <!-- 4 -->
+      <hr>
+      <table style="width:100%">
+        <tr>
+          <td style="width:23%;text-align:left">
+
+                <table border="5" style="border-color:white;">
+            <tr>
+                <th>
+            <p>
+                <h1>
+                    <b>
+                    <center style="color: yellow;">APRIL</center>
+                    </b>
+                </h1>
+            </p>
+            <table border="4" >
+                <tr style="color: yellow;">
+                    <th>
+                     Sun
+                    </th>
+        <th>
+            Mon
+        </th>
+        <th>
+            Tus
+        </th>
+        <th>
+            Wed
+        </th>
+        <th>
+            Thu
+        </th>
+        <th>
+            Fri
+        </th>
+        <th>
+            Sat
+        </th>
+        </tr>
+        <tr style="color: yellow">
+            <td>
+               &nbsp; 
+            </td>
+            <td>
+                &nbsp;
+            </td>
+            <td>
+              <center>1</center>
+            </td>
+            <td>
+                <center>2</center>
+            </td>
+            <td>
+                <center>3</center>
+            </td>
+            <td>
+                <center>4</center>
+            </td>
+            <td>
+                <center>5</center>
+            </td>
+        </tr>
+        <tr style="color: yellow;">
+            <td>
+                <center>6</center>
+            </td>
+            <td>
+                <center>7</center>
+            </td>
+            <td>
+                <center>8</center>
+            </td>
+            <td>
+                <center>9</center>
+            </td>
+            <td>
+                <center>10</center>
+            </td>
+            <td>
+                <center>11</center>
+            </td>
+            <td>
+                <center>12</center>
+            </td>
+            </tr>
+            <tr style="color: yellow;">
+                <td>
+                    <center>13</center>
+                </td>
+            
+                <td>
+                    <center>14</center>
+                </td>
+                <td>
+                    <center>15</center>
+                </td>
+                <td>
+                    <center>16</center>
+                </td>
+                <td>
+                    <center>17</center>
+                </td>
+                <td>
+                    <center>18</center>
+                </td>
+                <td>
+                    <center>19</center>
+                </td>
+            </tr>
+            <tr style="color: yellow">
+                <td>
+                    <center>20</center>
+                </td>
+                <td>
+                    <center>21</center>
+                </td>
+                <td>
+                    <center>22</center>
+                </td>
+                <td>
+                    <center>23</center>
+                </td>
+                <td>
+                    <center>24</center>
+                </td>
+                <td>
+                    <center>24</center>
+                </td>
+                <td>
+                    <center>25</center>
+                </td>
+            </tr>
+            <tr style="color: yellow">
+                <td>
+                    <center>26</center>
+                </td>
+                <td>
+                    <center>27</center>
+                </td>
+                <td>
+                    <center>28</center>
+                </td>
+                <td>
+                    <center>29</center>
+                </td>
+                <td>
+                    <center>30</center>
+                </td>
+                <td>
+                    <center>31</center>
+                </td>
+                <td>
+                    &nbsp;
+               </td>
+                
+            </tr>
+            </table>
+        </table>
+       
+          </td>
+<!-- 5 -->
+          
+          <td style="width:20%;text-align:center">
+
+                <table border="5" style="border-color:white;">
+            <tr>
+                <th>
+            <p>
+                <h1>
+                    <b>
+                    <center style="color: yellow;">MAY</center>
+                    </b>
+                </h1>
+            </p>
+            <table border="4" >
+                <tr style="color: yellow;">
+                    <th>
+                     Sun
+                    </th>
+        <th>
+            Mon
+        </th>
+        <th>
+            Tus
+        </th>
+        <th>
+            Wed
+        </th>
+        <th>
+            Thu
+        </th>
+        <th>
+            Fri
+        </th>
+        <th>
+            Sat
+        </th>
+        </tr>
+        <tr style="color: yellow">
+            <td>
+               &nbsp; 
+            </td>
+            <td>
+                &nbsp;
+            </td>
+            <td>
+                &nbsp;
+            </td>
+            <td>
+               &nbsp;
+            </td>
+            <td>
+                <center>1</center>
+            </td>
+            <td>
+                <center>2</center>
+            </td>
+            <td>
+                <center>3</center>
+            </td>
+        </tr>
+        <tr style="color: yellow;">
+            <td>
+                <center>4</center>
+            </td>
+            <td>
+                <center>5</center>
+            </td>
+            <td>
+                <center>6</center>
+            </td>
+            <td>
+                <center>7</center>
+            </td>
+            <td>
+                <center>8</center>
+            </td>
+            <td>
+                <center>9</center>
+            </td>
+            <td>
+                <center>10</center>
+            </td>
+            </tr>
+            <tr style="color: yellow;">
+                <td>
+                    <center>11</center>
+                </td>
+            
+                <td>
+                    <center>12</center>
+                </td>
+                <td>
+                    <center>13</center>
+                </td>
+                <td>
+                    <center>14</center>
+                </td>
+                <td>
+                    <center>15</center>
+                </td>
+                <td>
+                    <center>16</center>
+                </td>
+                <td>
+                    <center>17</center>
+                </td>
+            </tr>
+            <tr style="color: yellow">
+                <td>
+                    <center>18</center>
+                </td>
+                <td>
+                    <center>19</center>
+                </td>
+                <td>
+                    <center>20</center>
+                </td>
+                <td>
+                    <center>21</center>
+                </td>
+                <td>
+                    <center>22</center>
+                </td>
+                <td>
+                    <center>23</center>
+                </td>
+                <td>
+                    <center>24</center>
+                </td>
+            </tr>
+            <tr style="color: yellow">
+                <td>
+                    <center>25</center>
+                </td>
+                <td>
+                    <center>26</center>
+                </td>
+                <td>
+                    <center>27</center>
+                </td>
+                <td>
+                    <center>28</center>
+                </td>
+                <td>
+                    <center>29</center>
+                </td>
+                <td>
+                    <center>30</center>
+                </td>
+                <td>
+                    <center>31</center>
+               </td>
+                
+            </tr>
+            </table>
+        </table>
+       
+
+          </td>
+
+
+          <!-- 6 -->
+          <td style="width:3%;text-align:right">
+
+                <table border="5" style="border-color:white;">
+            <tr>
+                <th>
+            <p>
+                <h1>
+                    <b>
+                    <center style="color: yellow;">JUNE</center>
+                    </b>
+                </h1>
+            </p>
+            <table border="4" >
+                <tr style="color: yellow;">
+                    <th>
+                     Sun
+                    </th>
+        <th>
+            Mon
+        </th>
+        <th>
+            Tus
+        </th>
+        <th>
+            Wed
+        </th>
+        <th>
+            Thu
+        </th>
+        <th>
+            Fri
+        </th>
+        <th>
+            Sat
+        </th>
+        </tr>
+        <tr style="color: yellow">
+            <td>
+               <center>1</center>
+            </td>
+            <td>
+                <center>2</center>
+            </td>
+            <td>
+                <center>3</center>
+            </td>
+            <td>
+                <center>4</center>
+            </td>
+            <td>
+                <center>5</center>
+            </td>
+            <td>
+                <center>6</center>
+            </td>
+            <td>
+                <center>7</center>
+            </td>
+        </tr>
+        <tr style="color: yellow;">
+            <td>
+                <center>8</center>
+            </td>
+            <td>
+                <center>9</center>
+            </td>
+            <td>
+                <center>10</center>
+            </td>
+            <td>
+                <center>11</center>
+            </td>
+            <td>
+                <center>12</center>
+            </td>
+            <td>
+                <center>13</center>
+            </td>
+            <td>
+                <center>14</center>
+            </td>
+            </tr>
+            <tr style="color: yellow;">
+                <td>
+                    <center>15</center>
+                </td>
+            
+                <td>
+                    <center>16</center>
+                </td>
+                <td>
+                    <center>17</center>
+                </td>
+                <td>
+                    <center>18</center>
+                </td>
+                <td>
+                    <center>19</center>
+                </td>
+                <td>
+                    <center>20</center>
+                </td>
+                <td>
+                    <center>21</center>
+                </td>
+            </tr>
+            <tr style="color: yellow">
+                <td>
+                    <center>22</center>
+                </td>
+                <td>
+                    <center>23</center>
+                </td>
+                <td>
+                    <center>24</center>
+                </td>
+                <td>
+                    <center>25</center>
+                </td>
+                <td>
+                    <center>26</center>
+                </td>
+                <td>
+                    <center>27</center>
+                </td>
+                <td>
+                    <center>28</center>
+                </td>
+            </tr>
+            <tr style="color: yellow">
+                <td>
+                    <center>29</center>
+                </td>
+                <td>
+                    <center>30</center>
+                </td>
+                <td>
+                    &nbsp;
+                </td>
+                <td>
+                   &nbsp;
+                </td>
+                <td>
+                   &nbsp;
+                </td>
+                <td>
+                   &nbsp;
+                </td>
+                <td>
+                    &nbsp;
+               </td>
+            </tr>
+            </table>
+        </table>
+          </td>
+        </tr>
+      </table>
+<hr>
+<!--7-->
+<table style="width:100%">
+    <tr>
+      <td style="width:23%;text-align:left">
+
+            <table border="5" style="border-color:white;">
+        <tr>
+            <th>
+        <p>
+            <h1>
+                <b>
+                <center style="color: yellow;">JULY</center>
+                </b>
+            </h1>
+        </p>
+        <table border="4" >
+            <tr style="color: yellow;">
+                <th>
+                 Sun
+                </th>
+    <th>
+        Mon
+    </th>
+    <th>
+        Tus
+    </th>
+    <th>
+        Wed
+    </th>
+    <th>
+        Thu
+    </th>
+    <th>
+        Fri
+    </th>
+    <th>
+        Sat
+    </th>
+    </tr>
+    <tr style="color: yellow">
+        <td>
+           &nbsp; 
+        </td>
+        <td>
+            &nbsp;
+        </td>
+        <td>
+          <center>1</center>
+        </td>
+        <td>
+            <center>2</center>
+        </td>
+        <td>
+            <center>3</center>
+        </td>
+        <td>
+            <center>4</center>
+        </td>
+        <td>
+            <center>5</center>
+        </td>
+    </tr>
+    <tr style="color: yellow;">
+        <td>
+            <center>6</center>
+        </td>
+        <td>
+            <center>7</center>
+        </td>
+        <td>
+            <center>8</center>
+        </td>
+        <td>
+            <center>9</center>
+        </td>
+        <td>
+            <center>10</center>
+        </td>
+        <td>
+            <center>11</center>
+        </td>
+        <td>
+            <center>12</center>
+        </td>
+        </tr>
+        <tr style="color: yellow;">
+            <td>
+                <center>13</center>
+            </td>
+        
+            <td>
+                <center>14</center>
+            </td>
+            <td>
+                <center>15</center>
+            </td>
+            <td>
+                <center>16</center>
+            </td>
+            <td>
+                <center>17</center>
+            </td>
+            <td>
+                <center>18</center>
+            </td>
+            <td>
+                <center>19</center>
+            </td>
+        </tr>
+        <tr style="color: yellow">
+            <td>
+                <center>20</center>
+            </td>
+            <td>
+                <center>21</center>
+            </td>
+            <td>
+                <center>22</center>
+            </td>
+            <td>
+                <center>23</center>
+            </td>
+            <td>
+                <center>24</center>
+            </td>
+            <td>
+                <center>25</center>
+            </td>
+            <td>
+                <center>26</center>
+            </td>
+        </tr>
+        <tr style="color: yellow">
+            <td>
+                <center>27</center>
+            </td>
+            <td>
+                <center>28</center>
+            </td>
+            <td>
+                <center>29</center>
+            </td>
+            <td>
+                <center>30</center>
+            </td>
+            <td>
+                <center>31</center>
+            </td>
+            <td>
+                &nbsp;
+            </td>
+            <td>
+                &nbsp;
+           </td>
+            
+        </tr>
+        </table>
+    </table>
+      </td>
+
+<!-- 8 -->
+      <td style="width:20%;text-align:center">
+
+            <table border="5" style="border-color:white;">
+        <tr>
+            <th>
+        <p>
+            <h1>
+                <b>
+                <center style="color: yellow;">AUGUST</center>
+                </b>
+            </h1>
+        </p>
+        <table border="4" >
+            <tr style="color: yellow;">
+                <th>
+                 Sun
+                </th>
+    <th>
+        Mon
+    </th>
+    <th>
+        Tus
+    </th>
+    <th>
+        Wed
+    </th>
+    <th>
+        Thu
+    </th>
+    <th>
+        Fri
+    </th>
+    <th>
+        Sat
+    </th>
+    </tr>
+    <tr style="color: yellow">
+        <td>
+           &nbsp; 
+        </td>
+        <td>
+            &nbsp;
+        </td>
+        <td>
+            &nbsp;
+        </td>
+        <td>
+          &nbsp;
+        </td>
+        <td>
+        &nbsp;
+        </td>
+        <td>
+            <center>1</center>
+        </td>
+        <td>
+            <center>2</center>
+        </td>
+    </tr>
+    <tr style="color: yellow;">
+        <td>
+            <center>3</center>
+        </td>
+        <td>
+            <center>4</center>
+        </td>
+        <td>
+            <center>5</center>
+        </td>
+        <td>
+            <center>6</center>
+        </td>
+        <td>
+            <center>7</center>
+        </td>
+        <td>
+            <center>8</center>
+        </td>
+        <td>
+            <center>9</center>
+        </td>
+        </tr>
+        <tr style="color: yellow;">
+            <td>
+                <center>10</center>
+            </td>
+        
+            <td>
+                <center>11</center>
+            </td>
+            <td>
+                <center>12</center>
+            </td>
+            <td>
+                <center>13</center>
+            </td>
+            <td>
+                <center>14</center>
+            </td>
+            <td>
+                <center>15</center>
+            </td>
+            <td>
+                <center>16</center>
+            </td>
+        </tr>
+        <tr style="color: yellow">
+            <td>
+                <center>17</center>
+            </td>
+            <td>
+                <center>18</center>
+            </td>
+            <td>
+                <center>19</center>
+            </td>
+            <td>
+                <center>20</center>
+            </td>
+            <td>
+                <center>21</center>
+            </td>
+            <td>
+                <center>22</center>
+            </td>
+            <td>
+                <center>23</center>
+            </td>
+        </tr>
+        <tr style="color: yellow">
+            <td>
+                <center>24</center>
+            </td>
+            <td>
+                <center>25</center>
+            </td>
+            <td>
+                <center>26</center>
+            </td>
+            <td>
+                <center>27</center>
+            </td>
+            <td>
+                <center>28</center>
+            </td>
+            <td>
+                <center>29</center>
+            </td>
+            <td>
+                <center>30</center>
+           </td>
+           <tr>
+            <td style="color: yellow;">
+                <center>31</center>
+            </td>
+           </tr>
+            
+        </tr>
+        </table>
+    </table>
+      </td>
+
+      <!-- 9 -->
+      <td style="width:3%;text-align:right">
+
+            <table border="5" style="border-color:white;">
+        <tr>
+            <th>
+        <p>
+            <h1>
+                <b>
+                <center style="color: yellow;">SEPTEMBER</center>
+                </b>
+            </h1>
+        </p>
+        <table border="4" >
+            <tr style="color: yellow;">
+                <th>
+                 Sun
+                </th>
+    <th>
+        Mon
+    </th>
+    <th>
+        Tus
+    </th>
+    <th>
+        Wed
+    </th>
+    <th>
+        Thu
+    </th>
+    <th>
+        Fri
+    </th>
+    <th>
+        Sat
+    </th>
+    </tr>
+    <tr style="color: yellow">
+        <td>
+           &nbsp; 
+        </td>
+        <td>
+            &nbsp;
+        </td>
+        <td>
+            &nbsp;
+        </td>
+        <td>
+            <center>1</center>
+        </td>
+        <td>
+            <center>2</center>
+        </td>
+        <td>
+            <center>3</center>
+        </td>
+        <td>
+            <center>4</center>
+        </td>
+    </tr>
+    <tr style="color: yellow;">
+        <td>
+            <center>5</center>
+        </td>
+        <td>
+            <center>6</center>
+        </td>
+        <td>
+            <center>7</center>
+        </td>
+        <td>
+            <center>8</center>
+        </td>
+        <td>
+            <center>9</center>
+        </td>
+        <td>
+            <center>10</center>
+        </td>
+        <td>
+            <center>11</center>
+        </td>
+        </tr>
+        <tr style="color: yellow;">
+            <td>
+                <center>12</center>
+            </td>
+        
+            <td>
+                <center>13</center>
+            </td>
+            <td>
+                <center>14</center>
+            </td>
+            <td>
+                <center>15</center>
+            </td>
+            <td>
+                <center>16</center>
+            </td>
+            <td>
+                <center>17</center>
+            </td>
+            <td>
+                <center>18</center>
+            </td>
+        </tr>
+        <tr style="color: yellow">
+            <td>
+                <center>19</center>
+            </td>
+            <td>
+                <center>20</center>
+            </td>
+            <td>
+                <center>21</center>
+            </td>
+            <td>
+                <center>22</center>
+            </td>
+            <td>
+                <center>23</center>
+            </td>
+            <td>
+                <center>24</center>
+            </td>
+            <td>
+                <center>25</center>
+            </td>
+        </tr>
+        <tr style="color: yellow">
+            <td>
+                <center>26</center>
+            </td>
+            <td>
+                <center>27</center>
+            </td>
+            <td>
+                <center>28</center>
+            </td>
+            <td>
+                <center>29</center>
+            </td>
+            <td>
+                <center>30</center>
+            </td>
+            <td>
+                <center>31</center>
+            </td>
+            <td>
+                &nbsp;
+           </td>
+            
+        </tr>
+        </table>
+    </fieldset>
+    </table>
+      </td>
+    </tr>
+  </table>
+
+<hr>
+  <!-- 10 -->
+  <table style="width:100%">
+    <tr>
+      <td style="width:23%;text-align:left">
+
+            <table border="5" style="border-color:white;">
+        <tr>
+            <th>
+        <p>
+            <h1>
+                <b>
+                <center style="color: yellow;">OCTOBER</center>
+                </b>
+            </h1>
+        </p>
+        <table border="4" >
+            <tr style="color: yellow;">
+                <th>
+                 Sun
+                </th>
+    <th>
+        Mon
+    </th>
+    <th>
+        Tus
+    </th>
+    <th>
+        Wed
+    </th>
+    <th>
+        Thu
+    </th>
+    <th>
+        Fri
+    </th>
+    <th>
+        Sat
+    </th>
+    </tr>
+    <tr style="color: yellow">
+        <td>
+           &nbsp; 
+        </td>
+        <td>
+            &nbsp;
+        </td>
+        <td>
+            &nbsp;
+        </td>
+        <td>
+            <center>1</center>
+        </td>
+        <td>
+            <center>2</center>
+        </td>
+        <td>
+            <center>3</center>
+        </td>
+        <td>
+            <center>4</center>
+        </td>
+    </tr>
+    <tr style="color: yellow;">
+        <td>
+            <center>5</center>
+        </td>
+        <td>
+            <center>6</center>
+        </td>
+        <td>
+            <center>7</center>
+        </td>
+        <td>
+            <center>8</center>
+        </td>
+        <td>
+            <center>9</center>
+        </td>
+        <td>
+            <center>10</center>
+        </td>
+        <td>
+            <center>11</center>
+        </td>
+        </tr>
+        <tr style="color: yellow;">
+            <td>
+                <center>12</center>
+            </td>
+        
+            <td>
+                <center>13</center>
+            </td>
+            <td>
+                <center>14</center>
+            </td>
+            <td>
+                <center>15</center>
+            </td>
+            <td>
+                <center>16</center>
+            </td>
+            <td>
+                <center>17</center>
+            </td>
+            <td>
+                <center>18</center>
+            </td>
+        </tr>
+        <tr style="color: yellow">
+            <td>
+                <center>19</center>
+            </td>
+            <td>
+                <center>20</center>
+            </td>
+            <td>
+                <center>21</center>
+            </td>
+            <td>
+                <center>22</center>
+            </td>
+            <td>
+                <center>23</center>
+            </td>
+            <td>
+                <center>24</center>
+            </td>
+            <td>
+                <center>25</center>
+            </td>
+        </tr>
+        <tr style="color: yellow">
+            <td>
+                <center>26</center>
+            </td>
+            <td>
+                <center>27</center>
+            </td>
+            <td>
+                <center>28</center>
+            </td>
+            <td>
+                <center>29</center>
+            </td>
+            <td>
+                <center>30</center>
+            </td>
+            <td>
+                <center>31</center>
+            </td>
+            <td>
+                &nbsp;
+           </td>
+            
+        </tr>
+        </table>
+    </fieldset>
+    </table>
+      </td>
+
+<!-- 11 -->
+      <td style="width:20%;text-align:center">
+
+            <table border="5" style="border-color:white;">
+        <tr>
+            <th>
+        <p>
+            <h1>
+                <b>
+                <center style="color: yellow;">NOVEMBER</center>
+                </b>
+            </h1>
+        </p>
+        <table border="4" >
+            <tr style="color: yellow;">
+                <th>
+                 Sun
+                </th>
+    <th>
+        Mon
+    </th>
+    <th>
+        Tus
+    </th>
+    <th>
+        Wed
+    </th>
+    <th>
+        Thu
+    </th>
+    <th>
+        Fri
+    </th>
+    <th>
+        Sat
+    </th>
+    </tr>
+    <tr style="color: yellow">
+        <td>
+           &nbsp; 
+        </td>
+        <td>
+            &nbsp;
+        </td>
+        <td>
+            &nbsp;
+        </td>
+        <td>
+          &nbsp;
+        </td>
+        <td>
+            &nbsp;
+        </td>
+        <td>
+            &nbsp;
+        </td>
+        <td>
+            <center>1</center>
+        </td>
+    </tr>
+    <tr style="color: yellow;">
+        <td>
+            <center>2</center>
+        </td>
+        <td>
+            <center>3</center>
+        </td>
+        <td>
+            <center>4</center>
+        </td>
+        <td>
+            <center>5</center>
+        </td>
+        <td>
+            <center>6</center>
+        </td>
+        <td>
+            <center>7</center>
+        </td>
+        <td>
+            <center>8</center>
+        </td>
+        </tr>
+        <tr style="color: yellow;">
+            <td>
+                <center>9</center>
+            </td>
+        
+            <td>
+                <center>10</center>
+            </td>
+            <td>
+                <center>11</center>
+            </td>
+            <td>
+                <center>12</center>
+            </td>
+            <td>
+                <center>13</center>
+            </td>
+            <td>
+                <center>14</center>
+            </td>
+            <td>
+                <center>15</center>
+            </td>
+        </tr>
+        <tr style="color: yellow">
+            <td>
+                <center>16</center>
+            </td>
+            <td>
+                <center>17</center>
+            </td>
+            <td>
+                <center>18</center>
+            </td>
+            <td>
+                <center>19</center>
+            </td>
+            <td>
+                <center>20</center>
+            </td>
+            <td>
+                <center>21</center>
+            </td>
+            <td>
+                <center>22</center>
+            </td>
+        </tr>
+        <tr style="color: yellow">
+            <td>
+                <center>23</center>
+            </td>
+            <td>
+                <center>24</center>
+            </td>
+            <td>
+                <center>25</center>
+            </td>
+            <td>
+                <center>26</center>
+            </td>
+            <td>
+                <center>27</center>
+            </td>
+            <td>
+                <center>28</center>
+            </td>
+            <td>
+                <center>29</center>
+           </td>
+            <tr>
+                <td style="color: yellow;">
+                <center>31</center>
+                </td>
+                <td>
+                    &nbsp;
+                </td>
+                <td>
+                    &nbsp;
+                </td>     <td>
+                    &nbsp;
+                </td>     <td>
+                    &nbsp;
+                </td>     <td>
+                    &nbsp;
+                </td>     <td>
+                    &nbsp;
+                </td>
+            </tr>
+        </tr>
+        </table>
+    </fieldset>
+    </table>
+      </td>
+
+      <!-- 12 -->
+      <td style="width:3%;text-align:right">
+
+            <table border="5" style="border-color:white;">
+        <tr>
+            <th>
+        <p>
+            <h1>
+                <b>
+                <center style="color: yellow;">DECEMBER</center>
+                </b>
+            </h1>
+        </p>
+        <table border="4" >
+            <tr style="color: yellow;">
+                <th>
+                 Sun
+                </th>
+    <th>
+        Mon
+    </th>
+    <th>
+        Tus
+    </th>
+    <th>
+        Wed
+    </th>
+    <th>
+        Thu
+    </th>
+    <th>
+        Fri
+    </th>
+    <th>
+        Sat
+    </th>
+    </tr>
+    <tr style="color: yellow">
+        <td>
+           &nbsp; 
+        </td>
+        <td>
+           <center>1</center>
+        </td>
+        <td>
+            <center>2</center>
+        </td>
+        <td>
+            <center>3</center>
+        </td>
+        <td>
+            <center>4</center>
+        </td>
+        <td>
+            <center>5</center>
+        </td>
+        <td>
+            <center>6</center>
+        </td>
+    </tr>
+    <tr style="color: yellow;">
+        <td>
+            <center>7</center>
+        </td>
+        <td>
+            <center>8</center>
+        </td>
+        <td>
+            <center>9</center>
+        </td>
+        <td>
+            <center>10</center>
+        </td>
+        <td>
+            <center>11</center>
+        </td>
+        <td>
+            <center>12</center>
+        </td>
+        <td>
+            <center>13</center>
+        </td>
+        </tr>
+        <tr style="color: yellow;">
+            <td>
+                <center>14</center>
+            </td>
+        
+            <td>
+                <center>15</center>
+            </td>
+            <td>
+                <center>16</center>
+            </td>
+            <td>
+                <center>17</center>
+            </td>
+            <td>
+                <center>18</center>
+            </td>
+            <td>
+                <center>19</center>
+            </td>
+            <td>
+                <center>20</center>
+            </td>
+        </tr>
+        <tr style="color: yellow">
+            <td>
+                <center>21</center>
+            </td>
+            <td>
+                <center>22</center>
+            </td>
+            <td>
+                <center>23</center>
+            </td>
+            <td>
+                <center>24</center>
+            </td>
+            <td>
+                <center>25</center>
+            </td>
+            <td>
+                <center>26</center>
+            </td>
+            <td>
+                <center>27</center>
+            </td>
+        </tr>
+        <tr style="color: yellow">
+            <td>
+                <center>28</center>
+            </td>
+            <td>
+                <center>29</center>
+            </td>
+            <td>
+                <center>30</center>
+            </td>
+            <td>
+                <center>31</center>
+            </td>
+            <td>
+               &nbsp;
+            </td>
+            <td>
+            &nbsp;
+            </td>
+            <td>
+                &nbsp;
+           </td>
+            
+        </tr>
+        </table>
+    </fieldset>
+    </table>
+      </td>
+    </tr>
+  </table>
+  <hr>
+
+  <fieldset style="background-color: white;">
+  <center>
+  <table border="7" style="border-color: black;">
+    <tr>
+        <h1><b>
+            <th style="color: white">
+                <fieldset style="color: aqua; background-color: black;"><u>Holiday & Observances</u></fieldset>
+            </th>
+            <th style="color: white">
+                <fieldset style="color: aqua; background-color: black;"><u>Date</u></fieldset>
+            </th>     <th style="color: white">
+                <fieldset style="color: aqua; background-color: black;"><u>Day</u></fieldset>
+            </th>
+    </b></h1>
+    </tr>
+    <tr>
+        <td style="color: blue">
+         <fieldset><b style="color: blue;">Happy New Year</b></fieldset>
+        </td></fieldset>
+        <td style="color: blue">
+            <fieldset><b style="color: blue;">January 01</b></fieldset>
+           </td>
+           <td style="color: blue">
+            <fieldset><b style="color: blue;">Wednesday</b></fieldset>
+           </td>
+      </tr>
+    <tr>
+        <td style="color: blue">
+         <fieldset><b style="color: blue;">Last day of Hanukkah</b></fieldset>
+        </td></fieldset>
+        <td style="color: blue">
+            <fieldset><b style="color: blue;">January 02</b></fieldset>
+           </td>
+           <td style="color: blue">
+            <fieldset><b style="color: blue;">Thursday</b></fieldset>
+           </td>
+      </tr>
+
+      <tr>
+        <td style="color: blue">
+         <fieldset><b style="color: blue;">Guru Govind Sing Jayanti</b></fieldset>
+        </td></fieldset>
+        <td style="color: blue">
+            <fieldset><b style="color: blue;">January 06</b></fieldset>
+           </td>
+           <td style="color: blue">
+            <fieldset><b style="color: blue;">Monday</b></fieldset>
+           </td>
+      </tr>
+      
+      
+      <tr>
+        <td style="color: blue">
+         <fieldset><b style="color: blue;">Lohri</b></fieldset>
+        </td></fieldset>
+        <td style="color: blue">
+            <fieldset><b style="color: blue;">January 13</b></fieldset>
+           </td>
+           <td style="color: blue">
+            <fieldset><b style="color: blue;">Monday</b></fieldset>
+           </td>
+      </tr>
+      
+      
+      <tr>
+        <td style="color: blue">
+         <fieldset><b style="color: blue;">Pongal</b></fieldset>
+        </td></fieldset>
+        <td style="color: blue">
+            <fieldset><b style="color: blue;">January 14</b></fieldset>
+           </td>
+           <td style="color: blue">
+            <fieldset><b style="color: blue;">Tuesday</b></fieldset>
+           </td>
+      </tr>
+      
+      
+      <tr>
+        <td style="color: blue">
+         <fieldset><b style="color: blue;">Makar Sankranti</b></fieldset>
+        </td></fieldset>
+        <td style="color: blue">
+            <fieldset><b style="color: blue;">January 14</b></fieldset>
+           </td>
+           <td style="color: blue">
+            <fieldset><b style="color: blue;">Tuesday</b></fieldset>
+           </td>
+      </tr>
+      
+      
+      <tr>
+        <td style="color: blue">
+         <fieldset><b style="color: blue;">Hazarat Ali's Birthday</b></fieldset>
+        </td></fieldset>
+        <td style="color: blue">
+            <fieldset><b style="color: blue;">January 14</b></fieldset>
+           </td>
+           <td style="color: blue">
+            <fieldset><b style="color: blue;">Tuesday</b></fieldset>
+           </td>
+      </tr>
+
+      
+      <tr>
+        <td style="color: blue">
+         <fieldset><b style="color: blue;">Republic Day</b></fieldset>
+        </td></fieldset>
+        <td style="color: blue">
+            <fieldset><b style="color: blue;">January 26</b></fieldset>
+           </td>
+           <td style="color: blue">
+            <fieldset><b style="color: blue;">Sunday</b></fieldset>
+           </td>
+      </tr>
+      
+      
+      <tr>
+        <td style="color: blue">
+         <fieldset><b style="color: blue;">Lunar New Year</b></fieldset>
+        </td></fieldset>
+        <td style="color: blue">
+            <fieldset><b style="color: blue;">January 29</b></fieldset>
+           </td>
+           <td style="color: blue">
+            <fieldset><b style="color: blue;">Wednesday</b></fieldset>
+           </td>
+      </tr> 
+      <tr>
+        <td style="color: blue">
+         <fieldset><b style="color: blue;">Vasant Panchami</b></fieldset>
+        </td></fieldset>
+        <td style="color: blue">
+            <fieldset><b style="color: blue;">Frebruary 02</b></fieldset>
+           </td>
+           <td style="color: blue">
+            <fieldset><b style="color: blue;">Sunday</b></fieldset>
+           </td>
+      </tr> 
+
+      <tr>
+        <td style="color: blue">
+         <fieldset><b style="color: blue;">Guru Ravidas Jayanti</b></fieldset>
+        </td></fieldset>
+        <td style="color: blue">
+            <fieldset><b style="color: blue;">Frebruary 12</b></fieldset>
+           </td>
+           <td style="color: blue">
+            <fieldset><b style="color: blue;">Wednesday</b></fieldset>
+           </td>
+      </tr> 
+      <tr>
+        <td style="color: blue">
+         <fieldset><b style="color: blue;">Valentines Day</b></fieldset>
+        </td></fieldset>
+        <td style="color: blue">
+            <fieldset><b style="color: blue;">Frebruary 14</b></fieldset>
+           </td>
+           <td style="color: blue">
+            <fieldset><b style="color: blue;">Friday</b></fieldset>
+           </td>
+      </tr> 
+
+      <tr>
+        <td style="color: blue">
+         <fieldset><b style="color: blue;">Shivaji Jayanti</b></fieldset>
+        </td></fieldset>
+        <td style="color: blue">
+            <fieldset><b style="color: blue;">Frebruary 19</b></fieldset>
+           </td>
+           <td style="color: blue">
+            <fieldset><b style="color: blue;">Wednesday</b></fieldset>
+           </td>
+      </tr> 
+      <tr>
+        <td style="color: blue">
+         <fieldset><b style="color: blue;">Maharishi Dayanand Saraswati Jayanti</b></fieldset>
+        </td></fieldset>
+        <td style="color: blue">
+            <fieldset><b style="color: blue;">Frebruary 23</b></fieldset>
+           </td>
+           <td style="color: blue">
+            <fieldset><b style="color: blue;">Sunday</b></fieldset>
+           </td>
+      </tr> 
+      <tr>
+        <td style="color: blue">
+         <fieldset><b style="color: blue;">Maha Shivaratri</b></fieldset>
+        </td></fieldset>
+        <td style="color: blue">
+            <fieldset><b style="color: blue;">Frebruary 26</b></fieldset>
+           </td>
+           <td style="color: blue">
+            <fieldset><b style="color: blue;">Wednesday</b></fieldset>
+           </td>
+      </tr> 
+      <tr>
+        <td style="color: blue">
+         <fieldset><b style="color: blue;">Ramadan Start</b></fieldset>
+        </td></fieldset>
+        <td style="color: blue">
+            <fieldset><b style="color: blue;">March 02</b></fieldset>
+           </td>
+           <td style="color: blue">
+            <fieldset><b style="color: blue;">Sunday</b></fieldset>
+           </td>
+      </tr> 
+
+      <tr>
+        <td style="color: blue">
+         <fieldset><b style="color: blue;">Holika Dahana</b></fieldset>
+        </td></fieldset>
+        <td style="color: blue">
+            <fieldset><b style="color: blue;">March 13</b></fieldset>
+           </td>
+           <td style="color: blue">
+            <fieldset><b style="color: blue;">Thursday</b></fieldset>
+           </td>
+      </tr> 
+      
+      <tr>
+        <td style="color: blue">
+         <fieldset><b style="color: blue;">Holi</b></fieldset>
+        </td></fieldset>
+        <td style="color: blue">
+            <fieldset><b style="color: blue;">March 14</b></fieldset>
+           </td>
+           <td style="color: blue">
+            <fieldset><b style="color: blue;">Friday</b></fieldset>
+           </td>
+      </tr> 
+
+      
+      <tr>
+        <td style="color: blue">
+         <fieldset><b style="color: blue;">Dolyatra</b></fieldset>
+        </td></fieldset>
+        <td style="color: blue">
+            <fieldset><b style="color: blue;">March 14</b></fieldset>
+           </td>
+           <td style="color: blue">
+            <fieldset><b style="color: blue;">Friday</b></fieldset>
+           </td>
+      </tr> 
+      
+      <tr>
+        <td style="color: blue">
+         <fieldset><b style="color: blue;">March Equinox</b></fieldset>
+        </td></fieldset>
+        <td style="color: blue">
+            <fieldset><b style="color: blue;">March 20</b></fieldset>
+           </td>
+           <td style="color: blue">
+            <fieldset><b style="color: blue;">Thursday</b></fieldset>
+           </td>
+      </tr> 
+      
+      <tr>
+        <td style="color: blue">
+         <fieldset><b style="color: blue;">Jamat UI-Vida</b></fieldset>
+        </td></fieldset>
+        <td style="color: blue">
+            <fieldset><b style="color: blue;">March 28</b></fieldset>
+           </td>
+           <td style="color: blue">
+            <fieldset><b style="color: blue;">Friday</b></fieldset>
+           </td>
+      </tr> 
+      
+      <tr>
+        <td style="color: blue">
+         <fieldset><b style="color: blue;">Chaitra Sukhladi</b></fieldset>
+        </td></fieldset>
+        <td style="color: blue">
+            <fieldset><b style="color: blue;">March 30</b></fieldset>
+           </td>
+           <td style="color: blue">
+            <fieldset><b style="color: blue;">Sunday</b></fieldset>
+           </td>
+      </tr> 
+      
+      <tr>
+        <td style="color: blue">
+         <fieldset><b style="color: blue;">Ugadi</b></fieldset>
+        </td></fieldset>
+        <td style="color: blue">
+            <fieldset><b style="color: blue;">March 30</b></fieldset>
+           </td>
+           <td style="color: blue">
+            <fieldset><b style="color: blue;">Sunday</b></fieldset>
+           </td>
+      </tr> 
+      
+      <tr>
+        <td style="color: blue">
+         <fieldset><b style="color: blue;">Gudi Padwa</b></fieldset>
+        </td></fieldset>
+        <td style="color: blue">
+            <fieldset><b style="color: blue;">March 30</b></fieldset>
+           </td>
+           <td style="color: blue">
+            <fieldset><b style="color: blue;">Sunday</b></fieldset>
+           </td>
+      </tr> 
+      
+      <tr>
+        <td style="color: blue">
+         <fieldset><b style="color: blue;">Ramzan Id/Eid-ul-Fitar</b></fieldset>
+        </td></fieldset>
+        <td style="color: blue">
+            <fieldset><b style="color: blue;">March 31</b></fieldset>
+           </td>
+           <td style="color: blue">
+            <fieldset><b style="color: blue;">Monday</b></fieldset>
+           </td>
+      </tr> 
+      
+      <tr>
+        <td style="color: blue">
+         <fieldset><b style="color: blue;">Rama Navami</b></fieldset>
+        </td></fieldset>
+        <td style="color: blue">
+            <fieldset><b style="color: blue;">April 6</b></fieldset>
+           </td>
+           <td style="color: blue">
+            <fieldset><b style="color: blue;">Sunday</b></fieldset>
+           </td>
+      </tr> 
+      
+      <tr>
+        <td style="color: blue">
+         <fieldset><b style="color: blue;">Mahavir-Jayanti</b></fieldset>
+        </td></fieldset>
+        <td style="color: blue">
+            <fieldset><b style="color: blue;">April 10</b></fieldset>
+           </td>
+           <td style="color: blue">
+            <fieldset><b style="color: blue;">Thursday</b></fieldset>
+           </td>
+      </tr> 
+      <tr>
+        <td style="color: blue">
+         <fieldset><b style="color: blue;">First day of Passover</b></fieldset>
+        </td></fieldset>
+        <td style="color: blue">
+            <fieldset><b style="color: blue;">April 13</b></fieldset>
+           </td>
+           <td style="color: blue">
+            <fieldset><b style="color: blue;">Sunday</b></fieldset>
+           </td>
+      </tr> 
+      <tr>
+        <td style="color: blue">
+         <fieldset><b style="color: blue;">Vaisakhi</b></fieldset>
+        </td></fieldset>
+        <td style="color: blue">
+            <fieldset><b style="color: blue;">April 13</b></fieldset>
+           </td>
+           <td style="color: blue">
+            <fieldset><b style="color: blue;">Sunday</b></fieldset>
+           </td>
+      </tr> 
+      <tr>
+        <td style="color: blue">
+         <fieldset><b style="color: blue;">Mesadi</b></fieldset>
+        </td></fieldset>
+        <td style="color: blue">
+            <fieldset><b style="color: blue;">April 14</b></fieldset>
+           </td>
+           <td style="color: blue">
+            <fieldset><b style="color: blue;">Monday</b></fieldset>
+           </td>
+      </tr> 
+      <tr>
+        <td style="color: blue">
+         <fieldset><b style="color: blue;">Ambedkar Jayanti</b></fieldset>
+        </td></fieldset>
+        <td style="color: blue">
+            <fieldset><b style="color: blue;">April 14</b></fieldset>
+           </td>
+           <td style="color: blue">
+            <fieldset><b style="color: blue;">Monday</b></fieldset>
+           </td>
+      </tr> 
+      <tr>
+        <td style="color: blue">
+         <fieldset><b style="color: blue;">Bahag Bihu/Vaisakhadi</b></fieldset>
+        </td></fieldset>
+        <td style="color: blue">
+            <fieldset><b style="color: blue;">April 15</b></fieldset>
+           </td>
+           <td style="color: blue">
+            <fieldset><b style="color: blue;">Tuesday</b></fieldset>
+           </td>
+      </tr> 
+      
+      <tr>
+        <td style="color: blue">
+         <fieldset><b style="color: blue;">Maundy Thursday</b></fieldset>
+        </td></fieldset>
+        <td style="color: blue">
+            <fieldset><b style="color: blue;">April 17</b></fieldset>
+           </td>
+           <td style="color: blue">
+            <fieldset><b style="color: blue;">Thursday</b></fieldset>
+           </td>
+      </tr> 
+      <tr>
+        <td style="color: blue">
+         <fieldset><b style="color: blue;">Good Friday</b></fieldset>
+        </td></fieldset>
+        <td style="color: blue">
+            <fieldset><b style="color: blue;">April 18</b></fieldset>
+           </td>
+           <td style="color: blue">
+            <fieldset><b style="color: blue;">Friday</b></fieldset>
+           </td>
+      </tr> 
+      <tr>
+        <td style="color: blue">
+         <fieldset><b style="color: blue;">Easter Day</b></fieldset>
+        </td></fieldset>
+        <td style="color: blue">
+            <fieldset><b style="color: blue;">April 20</b></fieldset>
+           </td>
+           <td style="color: blue">
+            <fieldset><b style="color: blue;">Sunday</b></fieldset>
+           </td>
+      </tr> 
+      <tr>
+        <td style="color: blue">
+         <fieldset><b style="color: blue;">International Worker's Day</b></fieldset>
+        </td></fieldset>
+        <td style="color: blue">
+            <fieldset><b style="color: blue;">May 01</b></fieldset>           </td>
+           <td style="color: blue">
+            <fieldset><b style="color: blue;">Thursday</b></fieldset>
+           </td>
+      </tr> 
+
+      <tr>
+        <td style="color: blue">
+         <fieldset><b style="color: blue;">Birthday of Rabindranath</b></fieldset>
+        </td></fieldset>
+        <td style="color: blue">
+            <fieldset><b style="color: blue;">May 09</b></fieldset>
+           </td>
+           <td style="color: blue">
+            <fieldset><b style="color: blue;">Friday</b></fieldset>
+           </td>
+      </tr> 
+      <tr>
+        <td style="color: blue">
+         <fieldset><b style="color: blue;">Mothers Day</b></fieldset>
+        </td></fieldset>
+        <td style="color: blue">
+            <fieldset><b style="color: blue;">May 11</b></fieldset>
+           </td>
+           <td style="color: blue">
+            <fieldset><b style="color: blue;">Sunday</b></fieldset>
+           </td>
+      </tr> 
+      
+      <tr>
+        <td style="color: blue">
+         <fieldset><b style="color: blue;">Buddha Purnima/Vesak</b></fieldset>
+        </td></fieldset>
+        <td style="color: blue">
+            <fieldset><b style="color: blue;">May 12</b></fieldset>
+           </td>
+           <td style="color: blue">
+            <fieldset><b style="color: blue;">Monday</b></fieldset>
+           </td>
+      </tr> 
+      <tr>
+        <td style="color: blue">
+         <fieldset><b style="color: blue;">Bakrid/Eid ul-Adha</b></fieldset>
+        </td></fieldset>
+        <td style="color: blue">
+            <fieldset><b style="color: blue;">June 07</b></fieldset>
+           </td>
+           <td style="color: blue">
+            <fieldset><b style="color: blue;">Saturday</b></fieldset>
+           </td>
+      </tr> 
+      <tr>
+        <td style="color: blue">
+         <fieldset><b style="color: blue;">Fathers Day</b></fieldset>
+        </td></fieldset>
+        <td style="color: blue">
+            <fieldset><b style="color: blue;">June 15</b></fieldset>
+           </td>
+           <td style="color: blue">
+            <fieldset><b style="color: blue;">Sunday</b></fieldset>
+           </td>
+      </tr> 
+      <tr>
+        <td style="color: blue">
+         <fieldset><b style="color: blue;">June Solstic</b></fieldset>
+        </td></fieldset>
+        <td style="color: blue">
+            <fieldset><b style="color: blue;">June 21</b></fieldset>
+           </td>
+           <td style="color: blue">
+            <fieldset><b style="color: blue;">Saturday</b></fieldset>
+           </td>
+      </tr> 
+      <tr>
+        <td style="color: blue">
+         <fieldset><b style="color: blue;">Rath Yatra</b></fieldset>
+        </td></fieldset>
+        <td style="color: blue">
+            <fieldset><b style="color: blue;">June 27</b></fieldset>
+           </td>
+           <td style="color: blue">
+            <fieldset><b style="color: blue;">Friday</b></fieldset>
+           </td>
+      </tr> 
+      <tr>
+        <td style="color: blue">
+         <fieldset><b style="color: blue;">Muharram/Ashura</b></fieldset>
+        </td></fieldset>
+        <td style="color: blue">
+            <fieldset><b style="color: blue;">July 06</b></fieldset>
+           </td>
+           <td style="color: blue">
+            <fieldset><b style="color: blue;">Sunday</b></fieldset>
+           </td>
+      </tr> 
+      <tr>
+        <td style="color: blue">
+         <fieldset><b style="color: blue;">Guru Purnima</b></fieldset>
+        </td></fieldset>
+        <td style="color: blue">
+            <fieldset><b style="color: blue;">July 10</b></fieldset>
+           </td>
+           <td style="color: blue">
+            <fieldset><b style="color: blue;">Thursday</b></fieldset>
+           </td>
+      </tr> 
+      <tr>
+        <td style="color: blue">
+         <fieldset><b style="color: blue;">Friendship Day</b></fieldset>
+        </td></fieldset>
+        <td style="color: blue">
+            <fieldset><b style="color: blue;">August 03</b></fieldset>
+           </td>
+           <td style="color: blue">
+            <fieldset><b style="color: blue;">Sunday</b></fieldset>
+           </td>
+      </tr> 
+      <tr>
+        <td style="color: blue">
+         <fieldset><b style="color: blue;">Rakhsa Bandhan(Rakhi)</b></fieldset>
+        </td></fieldset>
+        <td style="color: blue">
+            <fieldset><b style="color: blue;">August 09</b></fieldset>
+           </td>
+           <td style="color: blue">
+            <fieldset><b style="color: blue;">Saturday</b></fieldset>
+           </td>
+      </tr>  
+      <tr>
+        <td style="color: blue">
+         <fieldset><b style="color: blue;">Independence Day</b></fieldset>
+        </td></fieldset>
+        <td style="color: blue">
+            <fieldset><b style="color: blue;">August 15</b></fieldset>
+           </td>
+           <td style="color: blue">
+            <fieldset><b style="color: blue;">Friday</b></fieldset>
+           </td>
+      </tr> 
+      <tr>
+        <td style="color: blue">
+         <fieldset><b style="color: blue;">Janmasthami(Smarta)</b></fieldset>
+        </td></fieldset>
+        <td style="color: blue">
+            <fieldset><b style="color: blue;">August 15</b></fieldset>
+           </td>
+           <td style="color: blue">
+            <fieldset><b style="color: blue;">Friday</b></fieldset>
+           </td>
+      </tr> 
+      <tr>
+        <td style="color: blue">
+         <fieldset><b style="color: blue;">Parsi New Year</b></fieldset>
+        </td></fieldset>
+        <td style="color: blue">
+            <fieldset><b style="color: blue;">August 15</b></fieldset>
+           </td>
+           <td style="color: blue">
+            <fieldset><b style="color: blue;">Friday</b></fieldset>
+           </td>
+      </tr> 
+      <tr>
+        <td style="color: blue">
+         <fieldset><b style="color: blue;">Janmasthami</b></fieldset>
+        </td></fieldset>
+        <td style="color: blue">
+            <fieldset><b style="color: blue;">August 16</b></fieldset>
+           </td>
+           <td style="color: blue">
+            <fieldset><b style="color: blue;">Saturday</b></fieldset>
+           </td>
+      </tr> 
+      <tr>
+        <td style="color: blue">
+         <fieldset><b style="color: blue;">Ganesh Chaturthi/Vinayaka Chaturthi</b></fieldset>
+        </td></fieldset>
+        <td style="color: blue">
+            <fieldset><b style="color: blue;">August 27</b></fieldset>
+           </td>
+           <td style="color: blue">
+            <fieldset><b style="color: blue;">Wednesday</b></fieldset>
+           </td>
+      </tr> 
+      <tr>
+        <td style="color: blue">
+         <fieldset><b style="color: blue;">Milad un-Nabi/Id e-Milad</b></fieldset>
+        </td></fieldset>
+        <td style="color: blue">
+            <fieldset><b style="color: blue;">September 05</b></fieldset>
+           </td>
+           <td style="color: blue">
+            <fieldset><b style="color: blue;">Friday</b></fieldset>
+           </td>
+      </tr> 
+      <tr>
+        <td style="color: blue">
+         <fieldset><b style="color: blue;">Onam</b></fieldset>
+        </td></fieldset>
+        <td style="color: blue">
+            <fieldset><b style="color: blue;">September 05</b></fieldset>
+           </td>
+           <td style="color: blue">
+            <fieldset><b style="color: blue;">Friday</b></fieldset>
+           </td>
+      </tr> 
+      <tr>
+        <td style="color: blue">
+         <fieldset><b style="color: blue;">First Day of Sharad Navaratri</b></fieldset>
+        </td></fieldset>
+        <td style="color: blue">
+            <fieldset><b style="color: blue;">September 22</b></fieldset>
+           </td>
+           <td style="color: blue">
+            <fieldset><b style="color: blue;">Monday</b></fieldset>
+           </td>
+      </tr> 
+      <tr>
+        <td style="color: blue">
+         <fieldset><b style="color: blue;">September Equinox</b></fieldset>
+        </td></fieldset>
+        <td style="color: blue">
+            <fieldset><b style="color: blue;">September 22</b></fieldset>
+           </td>
+           <td style="color: blue">
+            <fieldset><b style="color: blue;">Monday</b></fieldset>
+           </td>
+      </tr> 
+      <tr>
+        <td style="color: blue">
+         <fieldset><b style="color: blue;">First Day of Durga Puja Festible</b></fieldset>
+        </td></fieldset>
+        <td style="color: blue">
+            <fieldset><b style="color: blue;">September 28</b></fieldset>
+           </td>
+           <td style="color: blue">
+            <fieldset><b style="color: blue;">Sunday</b></fieldset>
+           </td>
+      </tr> 
+      <tr>
+        <td style="color: blue">
+         <fieldset><b style="color: blue;">Maha Saptami</b></fieldset>
+        </td></fieldset>
+        <td style="color: blue">
+            <fieldset><b style="color: blue;">September 29</b></fieldset>
+           </td>
+           <td style="color: blue">
+            <fieldset><b style="color: blue;">Monday</b></fieldset>
+           </td>
+      </tr> 
+      <tr>
+        <td style="color: blue">
+         <fieldset><b style="color: blue;">Maha Ashtami</b></fieldset>
+        </td></fieldset>
+        <td style="color: blue">
+            <fieldset><b style="color: blue;">September 30</b></fieldset>
+           </td>
+           <td style="color: blue">
+            <fieldset><b style="color: blue;">Tuesday</b></fieldset>
+           </td>
+      </tr> 
+      <tr>
+        <td style="color: blue">
+         <fieldset><b style="color: blue;">Maha Navami</b></fieldset>
+        </td></fieldset>
+        <td style="color: blue">
+            <fieldset><b style="color: blue;">October 01</b></fieldset>
+           </td>
+           <td style="color: blue">
+            <fieldset><b style="color: blue;">Wednesday</b></fieldset>
+           </td>
+      </tr> 
+      <tr>
+        <td style="color: blue">
+         <fieldset><b style="color: blue;">Mahatma Gandhi Jayanti</b></fieldset>
+        </td></fieldset>
+        <td style="color: blue">
+            <fieldset><b style="color: blue;">October 02</b></fieldset>
+           </td>
+           <td style="color: blue">
+            <fieldset><b style="color: blue;">Thursday</b></fieldset>
+           </td>
+      </tr> 
+      <tr>
+        <td style="color: blue">
+         <fieldset><b style="color: blue;">Dussehra</b></fieldset>
+        </td></fieldset>
+        <td style="color: blue">
+            <fieldset><b style="color: blue;">October 02</b></fieldset>
+           </td>
+           <td style="color: blue">
+            <fieldset><b style="color: blue;">Thursday</b></fieldset>
+           </td>
+      </tr> 
+      <tr>
+        <td style="color: blue">
+         <fieldset><b style="color: blue;">Maharishi Valmiki Jayanti</b></fieldset>
+        </td></fieldset>
+        <td style="color: blue">
+            <fieldset><b style="color: blue;">October 07</b></fieldset>
+           </td>
+           <td style="color: blue">
+            <fieldset><b style="color: blue;">Tuesday</b></fieldset>
+           </td>
+      </tr> 
+      <tr>
+        <td style="color: blue">
+         <fieldset><b style="color: blue;">Karaka Chaturthi(Karva Chauth)</b></fieldset>
+        </td></fieldset>
+        <td style="color: blue">
+            <fieldset><b style="color: blue;">October 10</b></fieldset>
+           </td>
+           <td style="color: blue">
+            <fieldset><b style="color: blue;">Friday</b></fieldset>
+           </td>
+      </tr> 
+      <tr>
+        <td style="color: blue">
+         <fieldset><b style="color: blue;">Naraka Chaturdasi</b></fieldset>
+        </td></fieldset>
+        <td style="color: blue">
+            <fieldset><b style="color: blue;">October 20</b></fieldset>
+           </td>
+           <td style="color: blue">
+            <fieldset><b style="color: blue;">Monday</b></fieldset>
+           </td>
+      </tr> 
+      <tr>
+        <td style="color: blue">
+         <fieldset><b style="color: blue;">Diwali/Dipavali</b></fieldset>
+        </td></fieldset>
+        <td style="color: blue">
+            <fieldset><b style="color: blue;">October 20</b></fieldset>
+           </td>
+           <td style="color: blue">
+            <fieldset><b style="color: blue;">Monday</b></fieldset>
+           </td>
+      </tr> 
+      <tr>
+        <td style="color: blue">
+         <fieldset><b style="color: blue;">Govardhan Puja</b></fieldset>
+        </td></fieldset>
+        <td style="color: blue">
+            <fieldset><b style="color: blue;">October 22</b></fieldset>
+           </td>
+           <td style="color: blue">
+            <fieldset><b style="color: blue;">Wednesday</b></fieldset>
+           </td>
+      </tr> 
+      <tr>
+        <td style="color: blue">
+         <fieldset><b style="color: blue;">Bhai Duj</b></fieldset>
+        </td></fieldset>
+        <td style="color: blue">
+            <fieldset><b style="color: blue;">October 23</b></fieldset>
+           </td>
+           <td style="color: blue">
+            <fieldset><b style="color: blue;">Thursday</b></fieldset>
+           </td>
+      </tr> 
+      <tr>
+        <td style="color: blue">
+         <fieldset><b style="color: blue;">Chhat Puja(Pratihar Sasthi/Suria Sasthi)</b></fieldset>
+        </td></fieldset>
+        <td style="color: blue">
+            <fieldset><b style="color: blue;">October 28</b></fieldset>
+           </td>
+           <td style="color: blue">
+            <fieldset><b style="color: blue;">Tuesday</b></fieldset>
+           </td>
+      </tr> 
+      <tr>
+        <td style="color: blue">
+         <fieldset><b style="color: blue;">Halloween</b></fieldset>
+        </td></fieldset>
+        <td style="color: blue">
+            <fieldset><b style="color: blue;">October 31</b></fieldset>
+           </td>
+           <td style="color: blue">
+            <fieldset><b style="color: blue;">Friday</b></fieldset>
+           </td>
+      </tr> 
+      <tr>
+        <td style="color: blue">
+         <fieldset><b style="color: blue;">Guru Nanak Jayanti</b></fieldset>
+        </td></fieldset>
+        <td style="color: blue">
+            <fieldset><b style="color: blue;">November 05</b></fieldset>
+           </td>
+           <td style="color: blue">
+            <fieldset><b style="color: blue;">Wednesday</b></fieldset>
+           </td>
+      </tr> 
+      
+      <tr>
+        <td style="color: blue">
+         <fieldset><b style="color: blue;">Guru Tegh Bahadur's Matrydom Day</b></fieldset>
+        </td></fieldset>
+        <td style="color: blue">
+            <fieldset><b style="color: blue;">November 24</b></fieldset>
+           </td>
+           <td style="color: blue">
+            <fieldset><b style="color: blue;">Monday</b></fieldset>
+           </td>
+      </tr> 
+      
+      <tr>
+        <td style="color: blue">
+         <fieldset><b style="color: blue;">First Day of Hanukkah</b></fieldset>
+        </td></fieldset>
+        <td style="color: blue">
+            <fieldset><b style="color: blue;">December 15</b></fieldset>
+           </td>
+           <td style="color: blue">
+            <fieldset><b style="color: blue;">Monday</b></fieldset>
+           </td>
+      </tr> 
+      <tr>
+        <td style="color: blue">
+         <fieldset><b style="color: blue;">December Solstice</b></fieldset>
+        </td></fieldset>
+        <td style="color: blue">
+            <fieldset><b style="color: blue;">December 21</b></fieldset>
+           </td>
+           <td style="color: blue">
+            <fieldset><b style="color: blue;">Sunday</b></fieldset>
+           </td>
+      </tr> 
+      <tr>
+        <td style="color: blue">
+         <fieldset><b style="color: blue;">Last Day of Hanukkah</b></fieldset>
+        </td></fieldset>
+        <td style="color: blue">
+            <fieldset><b style="color: blue;">December 15</b></fieldset>
+           </td>
+           <td style="color: blue">
+            <fieldset><b style="color: blue;">Monday</b></fieldset>
+           </td>
+      </tr> 
+      <tr>
+        <td style="color: blue">
+         <fieldset><b style="color: blue;">Christmas Eve</b></fieldset>
+        </td></fieldset>
+        <td style="color: blue">
+            <fieldset><b style="color: blue;">December 24</b></fieldset>
+           </td>
+           <td style="color: blue">
+            <fieldset><b style="color: blue;">Wednesday</b></fieldset>
+           </td>
+      </tr> 
+      <tr>
+        <td style="color: blue">
+         <fieldset><b style="color: blue;">Christmas</b></fieldset>
+        </td></fieldset>
+        <td style="color: blue">
+            <fieldset><b style="color: blue;">December 25</b></fieldset>
+           </td>
+           <td style="color: blue">
+            <fieldset><b style="color: blue;">Thursday</b></fieldset>
+           </td>
+      </tr> 
+      <tr>
+        <td style="color: blue">
+         <fieldset><b style="color: blue;">New Year's Eve</b></fieldset>
+        </td></fieldset>
+        <td style="color: blue">
+            <fieldset><b style="color: blue;">December 31</b></fieldset>
+           </td>
+           <td style="color: blue">
+            <fieldset><b style="color: blue;">Wednesday</b></fieldset>
+           </td>
+      </tr>  
+</fieldset>
+<footer>
+    <h1>
+        <b>
+            <u>
+                <i>
+                    HOLIDAYS & OBSERVANCES
+                </i>
+            </u>
+        </b>
+    </h1>
+</footer>
+</body>
+</html>
